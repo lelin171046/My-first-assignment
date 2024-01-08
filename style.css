@@ -131,3 +131,18 @@ p {
     width: 590px;
     /* padding-left: 90px; */
 }
+
+.sec{
+    background: linear-gradient();
+    text-align: center;
+}
+span{
+    /* padding: 80px 350px 85px 355px; */
+    color: #ff0000;
+}
+.btn-2{
+    font-size: medium;
+    color: #FFF;
+    background-color: #ff0000;
+    padding: 12px 24px;
+}
